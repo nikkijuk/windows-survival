@@ -18,15 +18,41 @@ install scoop in PowerShell
 PS C:\Users\nikkijuk> iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
 ```
 
-After that it goes like this 
+After that you can search for software
+
+```
+PS C:\Users\nikkijuk> scoop searc gradle
+```
+
+And install it (in desiered version if needed)
 
 ```
 PS C:\Users\nikkijuk> scoop install gradle@4.3.1
 ```
 
+# Supported suftware
+
+
+
+Search or look directly from repository
+
+https://github.com/lukesampson/scoop/tree/master/bucket
+
+https://github.com/lukesampson/scoop-extras
+
 # Where is Bash?
 
-Install WLS (windows linux subsystem)
+Guess what: there isn't one - but cool as it is - you can get it from MS.
+
+Enable WLS (windows linux subsystem)
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+Install suse from windows store
+
+https://www.microsoft.com/en-us/store/p/opensuse-leap-42/9njvjts82tjx
+
+There's other Linux variants too - I just picked this due to recommendation from my good friend, and hope it works for me.
 
 # Mail? Don't nail yourself to Windows mail
 
