@@ -75,3 +75,7 @@ PS C:\Users\nikkijuk> scoop install thunderbird
 PS C:\Users\nikkijuk> scoop install calibre-normal
 ```
 
+## Office ?
+
+There doesn't seem to be open office or libre office package definitions for Scoop. Strange it is.
+
