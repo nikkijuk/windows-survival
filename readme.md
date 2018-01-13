@@ -81,5 +81,9 @@ Which to choose?
 
 http://www.zdnet.com/article/openoffice-is-dead-long-live-libreoffice/
 
+http://www.zdnet.com/article/apache-should-deprecate-openoffice-and-send-users-to-libreoffice-instead/
+
 http://www.techradar.com/news/the-best-free-office-software
+
+I have previously always taken open office, and it might continue like this. Anyway: I need to install it by hand.
 
