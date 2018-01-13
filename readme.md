@@ -77,5 +77,9 @@ PS C:\Users\nikkijuk> scoop install calibre-normal
 
 There doesn't seem to be open office or libre office package definitions for Scoop. Strange it is.
 
-Which to choose? http://www.zdnet.com/article/openoffice-is-dead-long-live-libreoffice/
+Which to choose? 
+
+http://www.zdnet.com/article/openoffice-is-dead-long-live-libreoffice/
+
+http://www.techradar.com/news/the-best-free-office-software
 
