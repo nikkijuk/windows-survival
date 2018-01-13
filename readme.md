@@ -37,13 +37,15 @@ PS C:\Users\nikkijuk> scoop bucket add extras
 
 ```
 
-And so goes it
+Install thunderbird
 
 ```
 PS C:\Users\nikkijuk> scoop install thunderbird
 ```
 
+# Epub ?
 
 ```
-PS C:\Users\nikkijuk> scoop install thunderbird
+PS C:\Users\nikkijuk> scoop install calibre-normal
 ```
+
