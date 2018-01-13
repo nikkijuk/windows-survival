@@ -6,7 +6,7 @@ In addition I have used several years RHEL at work and know that OS can just wor
 
 Let's see how long I manage with my XPS 15 before I format whole Win 10 over and install Linux.
 
-# Installations take ages? 
+## Installations take ages? 
 
 Use package manager
 
@@ -30,9 +30,7 @@ And install it (in desiered version if needed)
 PS C:\Users\nikkijuk> scoop install gradle@4.3.1
 ```
 
-# Supported suftware
-
-
+## Supported suftware
 
 Search or look directly from repository
 
@@ -40,7 +38,7 @@ https://github.com/lukesampson/scoop/tree/master/bucket
 
 https://github.com/lukesampson/scoop-extras
 
-# Where is Bash?
+## Where is Bash?
 
 Guess what: there isn't one - but cool as it is - you can get it from MS.
 
@@ -54,7 +52,7 @@ https://www.microsoft.com/en-us/store/p/opensuse-leap-42/9njvjts82tjx
 
 There's other Linux variants too - I just picked this due to recommendation from my good friend, and hope it works for me.
 
-# Mail? Don't nail yourself to Windows mail
+## Mail? Don't nail yourself to Windows mail
 
 Add extras buckt to scoop
 
@@ -69,7 +67,7 @@ Install thunderbird
 PS C:\Users\nikkijuk> scoop install thunderbird
 ```
 
-# Epub ?
+## Epub ?
 
 ```
 PS C:\Users\nikkijuk> scoop install calibre-normal
@@ -78,4 +76,6 @@ PS C:\Users\nikkijuk> scoop install calibre-normal
 ## Office ?
 
 There doesn't seem to be open office or libre office package definitions for Scoop. Strange it is.
+
+Which to choose? http://www.zdnet.com/article/openoffice-is-dead-long-live-libreoffice/
 
