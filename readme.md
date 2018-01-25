@@ -69,11 +69,13 @@ PS C:\Users\nikkijuk> scoop install thunderbird
 
 ## Epub ?
 
-```
+``
 PS C:\Users\nikkijuk> scoop install calibre-normal
 ```
 
-## Office ?
+##
+
+Office ?
 
 There doesn't seem to be open office or libre office package definitions for Scoop. Strange it is.
 
@@ -87,3 +89,21 @@ http://www.techradar.com/news/the-best-free-office-software
 
 I have previously always taken open office, and it might continue like this. Anyway: I need to install it by hand.
 
+## Virtual box
+
+No scoop support - install by hand
+
+https://www.virtualbox.org/wiki/Downloads
+
+## Docker
+
+https://github.com/lukesampson/scoop/wiki/Docker-and-Docker-Composex
+
+scoop install docker
+scoop install docker-machine
+
+docker-machine create default
+
+
+
+## 
